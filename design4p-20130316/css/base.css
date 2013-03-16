@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'VL Gothic WOFF';
+    src: url(fonts/VL-Gothic-Regular.woff) format('woff');
+}
+
+/* EOT & TTF
+   ref) http://hail2u.net/blog/webdesign/bulletproof-at-font-face-syntax.html */
+/*
+@font-face {
+    font-family: 'VL Gothic';
+    src: url(fonts/VL-Gothic-Regular.eot);
+    src: local('nouse'), local('nouse'),
+         url(fonts/VL-Gothic-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'VL PGothic';
+    src: url(fonts/VL-PGothic-Regular.eot);
+    src: local('nouse'), local('nouse'),
+         url(fonts/VL-PGothic-Regular.ttf) format('truetype');
+}
+*/
+
+/* WOFF */
+/*
+@font-face {
+    font-family: 'VL Gothic WOFF';
+    src: url(fonts/VL-Gothic-Regular.woff) format('woff');
+}
+@font-face {
+    font-family: 'VL PGothic WOFF';
+    src: url(fonts/VL-PGothic-Regular.woff) format('woff');
+}
+
+.vl-gothic {
+    font-family: 'VL Gothic';
+}
+.vl-pgothic {
+    font-family: 'VL PGothic';
+}
+
+.vl-gothic-woff {
+    font-family: 'VL Gothic WOFF';
+}
+.vl-pgothic-woff {
+    font-family: 'VL PGothic WOFF';
+}
+
+.ms-gothic {
+    font-family: 'MS Gothic';
+}
+.ms-pgothic {
+    font-family: 'MS PGothic';
+}
+*/
