@@ -1,5 +1,9 @@
-var func = function () {
-    var arr = [1, 2, 3];
-    return arr;
+var concat = function (a, b) {
+    return a + b;
 };
-console.log(func());
+
+var r1 = concat('aaa', 'bbb');
+console.log(r1);
+
+var r2 = concat(2, 'bbb');
+console.log(r2);
